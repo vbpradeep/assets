@@ -1343,6 +1343,13 @@
   "ALL": "Toute",
   "SORTBY": "Trier par ordre alphabétique",
   "CLEAR": "Dégager",
-  "VIEWTICET": "Voir les billets",
-  "FIELDSMANDATORY": "Certains champs sont obligatoires pour ce ticket. Mettez à jour ces champs avant de fermer le ticket."
+  "RESETFILTER": "Réinitialiser le filtre",
+  "VIEWPROFILE": "Voir le profil",
+  "DELETEPEMANENTLY":"supprimer définitivement",
+  "DELETETICKETPEMANENTLY":"Supprimer le ticket définitivement",
+  "DELETETICKETMESSAGE": "Le ticket et ses données seront définitivement supprimés et ne pourront pas être récupérés. Êtes-vous sûr de vouloir supprimer ce ticket?",
+  "VIEWTICKET": "Voir le billet",
+  "FIELDSMANDATORY": "Ce statut de ticket ne peut pas être modifié car certains champs obligatoires pour résoudre / fermer le ticket ne sont pas remplis. Veuillez remplir ces champs avant de changer de statut.",
+  "STATUSCHANGE": "Changement de statut",
+  "CLOSEDSTATUSFAILUREMESSAGE": "Veuillez remplir les champs obligatoires pour résoudre / fermer les tickets avant de procéder au changement de statut."
 }

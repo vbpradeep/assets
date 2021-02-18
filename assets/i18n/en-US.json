@@ -1341,8 +1341,15 @@
     "CONVERTTOAGENT": "Convert to Agent",
     "NOPERMISSIONTOCONVERT": "You don’t have manage agent permission to convert this contact to agent",
     "ALL": "All",
-    "SORTBY": "Sort by Alphabetically",
+    "SORTBY": "Sort alphabetically",
     "CLEAR": "Clear",
-    "VIEWTICET": "View tickets",
-    "FIELDSMANDATORY": "Some fields are mandatory for this ticket. Update those fields before closing ticket."
+    "RESETFILTER": "Reset Filter",
+    "VIEWPROFILE": "View Profile",
+    "DELETEPEMANENTLY":"Delete Permanently",
+    "DELETETICKETPEMANENTLY":"Delete Ticket Permanently",
+    "DELETETICKETMESSAGE": "The ticket and its data will be permanently deleted and cannot be recovered. Are you sure you want to delete this ticket?",
+    "VIEWTICKET": "View ticket",
+    "FIELDSMANDATORY": "This ticket status cannot be changed as some fields mandatory for solving/closing the ticket are not filled. Please fill out those fields before proceeding to change status.",
+    "STATUSCHANGE": "Status Change",
+    "CLOSEDSTATUSFAILUREMESSAGE": "Please fill out fields mandatory for solving/closing tickets before proceeding to change status."
 }
