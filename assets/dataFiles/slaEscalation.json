@@ -1,0 +1,32 @@
+{
+    "rules": [
+    {
+      "field": "firstResponseEscalation",
+      "label": "First response escalation",
+      "operator": "0",
+      "operatorValue": "0",
+      "reminderTime": "30",
+      "timeOptionId": 2,
+      "sortOrder": 1
+    },
+    {
+      "field": "responseEscalation",
+      "label": "Response escalation",
+      "operator": "0",
+      "operatorValue": "0",
+      "reminderTime": "30",
+      "timeOptionId": 2,
+      "sortOrder": 2
+    },
+    {
+      "field": "resolutionEscalation",
+      "label": "Resolution escalation",
+      "operator": "0",
+      "operatorValue": "0",
+      "reminderTime": "30",
+      "timeOptionId": 2,
+      "sortOrder": 3
+    }
+]
+}
+  

@@ -1,0 +1,41 @@
+[
+  {
+    "viewText": "Favorites",
+    "isAdvancedView": true,
+    "viewId": 1,
+    "view": "favorites",
+    "isParent": true
+  },
+  {
+    "viewText": "All Views",
+    "isAdvancedView": true,
+    "viewId": 1,
+    "view": "All",
+    "isParent": true,
+    "expanded": "expanded"
+  },
+  {
+    "viewText": "Suspended Emails",
+    "isAdvancedView": true,
+    "viewId": 1,
+    "view": "All",
+    "isParent": true,
+    "isInActive": true
+  },
+  {
+    "viewText": "Spam Tickets",
+    "isAdvancedView": true,
+    "viewId": 1,
+    "view": "All",
+    "isParent": true,
+    "isInActive": true
+  },
+  {
+    "viewText": "Deleted Tickets",
+    "isAdvancedView": true,
+    "viewId": 1,
+    "view": "All",
+    "isParent": true,
+    "isInActive": true
+  }
+]

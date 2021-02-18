@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "field": "Subject",
+        "type": "Text",
+        "visibility": true,
+        "isDefault": true,
+        "isEnable": true,
+        "canDelete": false
+
+    },
+    {
+        "id": 2,
+        "field": "Description",
+        "type": "Rich Text",
+        "visibility": true,
+        "isDefault": true,
+        "isEnable": true,
+        "canDelete": false
+    },
+    {
+        "id": 3,
+        "field": "File Attachment",
+        "type": "File Upload",
+        "visibility": true,
+        "isDefault": true,
+        "isEnable": true,
+        "canDelete": false
+    },
+    {
+        "id": 4,
+        "field": "Priority",
+        "type": "Dropdown",
+        "visibility": true,
+        "isDefault": true,
+        "isEnable": true,
+        "canDelete": false
+
+    },
+    {
+        "id": 5,
+        "field": "Requester",
+        "type": "Dropdown",
+        "visibility": false,
+        "isDefault": true,
+        "isEnable": true,
+        "canDelete": false
+    },
+    {
+        "id": 6,
+        "field": "Agent",
+        "type": "Dropdown",
+        "visibility": false,
+        "isDefault": true,
+        "isEnable": true,
+        "canDelete": false
+    },
+    {
+        "id": 7,
+        "field": "CC",
+        "type": "Email",
+        "visibility": true,
+        "isDefault": false,
+        "isEnable": true,
+        "canDelete": false
+
+    },
+    {
+        "id": 8,
+        "field": "Tag",
+        "type": "MultiSelect",
+        "visibility": false,
+        "isDefault": true,
+        "isEnable": true,
+        "canDelete": true
+    },
+    {
+        "id": 9,
+        "field": "Category",
+        "type": "Dropdown",
+        "visibility": true,
+        "isDefault": false,
+        "isEnable": true,
+        "canDelete": true
+    },
+    {
+        "id": 10,
+        "field": "Subcategory",
+        "type": "Dropdown",
+        "visibility": true,
+        "isDefault": false,
+        "isEnable": true,
+        "canDelete": true
+
+    },
+    {
+        "id": 11,
+        "field": "IsKB applicable",
+        "type": "Checkbox",
+        "visibility": false,
+        "isDefault": false,
+        "isEnable": true,
+        "canDelete": true
+    },
+    {
+        "id": 12,
+        "field": "JIRA ID Multiselect",
+        "type": "Multiselect URL Prefix",
+        "visibility": false,
+        "isDefault": false,
+        "isEnable": true,
+        "canDelete": true
+    }
+]

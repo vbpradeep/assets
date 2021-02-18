@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "fieldName": "Category",
+        "labelForAgent": "Category",
+        "labelForUser": "Platform",
+        "isDefaultSystemField": true,
+        "noteMessageForField": "Specify the Platform",
+        "isVisibleToUser": true,
+        "isEnabled": true,
+        "fieldType": "Drop Down",
+        "isReadOnlyForUser": true,
+        "isRequiredForAgent": false,
+        "isRequiredForUser": true,
+        "isRequiredForClosingTicketByUser": true,
+        "isRequiredForClosingTicketByAgent": true,
+        "brands": [
+            {
+                "id": 1,
+                "name": "Bold Sign"
+            },
+            {
+                "id": 2,
+                "name": "Bold BI"
+            }
+        ],
+        "isArchived": false
+    },
+    {
+        "id": 2,
+        "fieldName": "Sub Category",
+        "labelForAgent": "Sub Category",
+        "labelForUser": "Sub Category",
+        "isDefaultSystemField": true,
+        "noteMessageForField": "Specify the control",
+        "isVisibleToUser": false,
+        "isEnabled": true,
+        "fieldType": "Text Box",
+        "isReadOnlyForUser": true,
+        "isRequiredForAgent": true,
+        "isRequiredForUser": false,
+        "isRequiredForClosingTicketByUser": true,
+        "isRequiredForClosingTicketByAgent": true,
+        "brands": [
+            {
+                "id": 3,
+                "name": "Bold Reports"
+            },
+            {
+                "id": 2,
+                "name": "Bold BI"
+            }
+        ],
+        "isArchived": false
+    },
+    {
+        "id": 3,
+        "fieldName": "Priority",
+        "labelForAgent": "Priority",
+        "labelForUser": "Priority",
+        "isDefaultSystemField": true,
+        "noteMessageForField": "Specify the control",
+        "isVisibleToUser": false,
+        "isEnabled": true,
+        "fieldType": "Text Box",
+        "isReadOnlyForUser": true,
+        "isRequiredForAgent": true,
+        "isRequiredForUser": false,
+        "isRequiredForClosingTicketByUser": true,
+        "isRequiredForClosingTicketByAgent": true,
+        "brands": [
+            {
+                "id": 3,
+                "name": "Bold Reports"
+            },
+            {
+                "id": 2,
+                "name": "Bold BI"
+            }
+        ],
+        "isArchived": false
+    },
+    {
+        "id": 4,
+        "fieldName": "Types",
+        "labelForAgent": "Types",
+        "labelForUser": "Types",
+        "isDefaultSystemField": true,
+        "noteMessageForField": "Specify the control",
+        "isVisibleToUser": false,
+        "isEnabled": true,
+        "fieldType": "Text Box",
+        "isReadOnlyForUser": true,
+        "isRequiredForAgent": true,
+        "isRequiredForUser": false,
+        "isRequiredForClosingTicketByUser": true,
+        "isRequiredForClosingTicketByAgent": true,
+        "brands": [
+            {
+                "id": 3,
+                "name": "Bold Reports"
+            },
+            {
+                "id": 2,
+                "name": "Bold BI"
+            }
+        ],
+        "isArchived": false
+    },
+    {
+        "id": 5,
+        "fieldName": "Status",
+        "labelForAgent": "Status",
+        "labelForUser": "Status",
+        "isDefaultSystemField": true,
+        "noteMessageForField": "Specify the control",
+        "isVisibleToUser": false,
+        "isEnabled": true,
+        "fieldType": "Text Box",
+        "isReadOnlyForUser": true,
+        "isRequiredForAgent": true,
+        "isRequiredForUser": false,
+        "isRequiredForClosingTicketByUser": true,
+        "isRequiredForClosingTicketByAgent": true,
+        "brands": [
+            {
+                "id": 3,
+                "name": "Bold Reports"
+            },
+            {
+                "id": 2,
+                "name": "Bold BI"
+            }
+        ],
+        "isArchived": false
+    }
+]

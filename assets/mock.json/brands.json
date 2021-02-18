@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "brandName": "Bold BI",
+        "customerPortalUrl": "https://stagingboldbi.bolddesk.com",
+        "email": "support@testingboldbi.bolddesk.com"
+    },
+    {
+        "id": "2",
+        "brandName": "Bold Reports",
+        "customerPortalUrl": "https://stagingboldreports.bolddesk.com",
+        "email": "support@testingboldreports.bolddesk.com"
+    },
+    {
+        "id": "3",
+        "brandName": "Bold Sign",
+        "customerPortalUrl": "https://stagingboldsign.bolddesk.com",
+        "email": "support@testingboldsign.bolddesk.com"
+    }
+]

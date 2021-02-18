@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Low",
+        "backgroundColor": "#10a856"
+    },
+    {
+        "id": 2,
+        "name": "Normal",
+        "backgroundColor": "#096cbf"
+    },
+    {
+        "id": 3,
+        "name": "High",
+        "backgroundColor": "#f9c301"
+    },
+    {
+        "id": 4,
+        "name": "Critical",
+        "backgroundColor": "#e90a03"
+    }
+]

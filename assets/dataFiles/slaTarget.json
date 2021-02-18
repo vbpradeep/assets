@@ -1,0 +1,54 @@
+[
+    {
+        "businessHourId": null,
+        "field": "priority",
+        "firstResponseTime": 1,
+        "firstResponseTimeOptionId": "2",
+        "isEscalationEnabled": true,
+        "isReminderEnabled": true,
+        "resolutionTime": 1,
+        "resolutionTimeOptionId": "3",
+        "responseTime": 1,
+        "responseTimeOptionId": "2",
+        "value": "1"
+    },
+    {
+        "businessHourId": null,
+        "field": "priority",
+        "firstResponseTime": 1,
+        "firstResponseTimeOptionId": "2",
+        "isEscalationEnabled": true,
+        "isReminderEnabled": true,
+        "resolutionTime": 1,
+        "resolutionTimeOptionId": "3",
+        "responseTime": 1,
+        "responseTimeOptionId": "2",
+        "value": "2"
+    },
+    {
+        "businessHourId": null,
+        "field": "priority",
+        "firstResponseTime": 1,
+        "firstResponseTimeOptionId": "2",
+        "isEscalationEnabled": true,
+        "isReminderEnabled": true,
+        "resolutionTime": 1,
+        "resolutionTimeOptionId": "3",
+        "responseTime": 1,
+        "responseTimeOptionId": "2",
+        "value": "3"
+    },
+    {
+        "businessHourId": null,
+        "field": "priority",
+        "firstResponseTime": 1,
+        "firstResponseTimeOptionId": "2",
+        "isEscalationEnabled": true,
+        "isReminderEnabled": true,
+        "resolutionTime": 1,
+        "resolutionTimeOptionId": "3",
+        "responseTime": 1,
+        "responseTimeOptionId": "2",
+        "value": "4"
+    }
+]

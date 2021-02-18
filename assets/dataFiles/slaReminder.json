@@ -1,0 +1,32 @@
+{
+    "rules": [
+    {
+      "field": "firstResponseReminder",
+      "label": "First response reminder",
+      "operator": "0",
+      "operatorValue": "0",
+      "reminderTime": "30",
+      "timeOptionId": 2,
+      "sortOrder": 1
+    },
+    {
+      "field": "responseReminder",
+      "label": "Response reminder",
+      "operator": "0",
+      "operatorValue": "0",
+      "reminderTime": "30",
+      "timeOptionId": 2,
+      "sortOrder": 2
+    },
+    {
+      "field": "resolutionReminder",
+      "label": "Resolution reminder",
+      "operator": "0",
+      "operatorValue": "0",
+      "reminderTime": "30",
+      "timeOptionId": 2,
+      "sortOrder": 3
+    }
+    ]
+}
+  
